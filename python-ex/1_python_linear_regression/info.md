@@ -1,0 +1,1 @@
+Tarea regresión lineal utilizando Numpy y Pandas.
